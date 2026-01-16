@@ -5,7 +5,7 @@
 ### 📚 Education
 * 🎓 **B.S. in Statistics**
 * 📈 **M.A. in Economics (In Progress)**
-  * *Major Focus: **Econometrics (계량경제학)***
+  * *Major Focus: **Econometrics ***
 
 ### 🔍 Research Interests
 * **Time-series Analysis**
