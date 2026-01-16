@@ -13,7 +13,6 @@
 
 ### 🛠 Tools & Contact
 * **Analysis:** <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/> 
-* **Document:** <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
 * **E-mail:** [dbtkdgur121212@naver.com](mailto:dbtkdgur121212@naver.com)
 
 <br/>
