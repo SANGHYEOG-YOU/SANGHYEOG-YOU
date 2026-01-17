@@ -1,6 +1,6 @@
 # About Me
 ### 📚 Education
-* 🎓 **B.S. in Statistics**
+* 🎓 **B.S. in Statistics, Jeonbuk National University**
 * 📈 **M.A. in Economics, Chung-Ang University (In Progress)**
   * **Major Focus: Econometrics**
   * **Research Interests: Forecasting, Machine Learning Applications in Economics**
