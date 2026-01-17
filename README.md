@@ -5,7 +5,7 @@
   * **Major Focus: Econometrics** 
 
 ### 🔍 Research Interests
-* **Time-series Analysis**
+* **Forecasting**
 * **Machine Learning Applications in Economics** 
 
 ### 🛠 Tools & Contact
