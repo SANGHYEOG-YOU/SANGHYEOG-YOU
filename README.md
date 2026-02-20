@@ -4,7 +4,7 @@
 * 🧬 Background in Biotechnology
 * 📈 **M.A. in Economics(In Progress)**
   * **Major Focus: Econometrics**
-  * **Research Interests: Forecasting, Machine Learning Applications in Economics**
+  * **Research Interests: Forecasting, Machine Learning**
  
 
 ### 🛠 Tools & Contact
