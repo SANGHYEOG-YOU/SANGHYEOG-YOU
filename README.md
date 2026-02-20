@@ -1,11 +1,11 @@
 # About Me
 
 ### 📚 Education
-**B.S. in Statistics (Natural Sciences)**  
+* **B.S. in Statistics (Natural Sciences)**  
 
-**M.A. in Economics (In Progress)**  
-*Focus: Econometrics*  
-*Interests: Forecasting & AI-driven Economic Analysis*
+* **M.A. in Economics (In Progress)**  
+  * Focus: Econometrics 
+  * Interests: Forecasting & AI-driven Economic Analysis
 ---
 
 ### 🛠 Tools & Skills
