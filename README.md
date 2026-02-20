@@ -1,6 +1,7 @@
 # About Me
 ### 📚 Education
-* 🎓 **B.S. in Statistics and Economics (Double Major)**
+* 🎓 **B.S. in Statistics(College of Natural Sciences)**
+  * Background in Biotech
 * 📈 **M.A. in Economics(In Progress)**
   * **Major Focus: Econometrics**
   * **Research Interests: Forecasting, Machine Learning Applications in Economics**
