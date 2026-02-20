@@ -1,7 +1,6 @@
 # About Me
 ### 📚 Education
-* 🎓 **B.S. in Statistics and Economics (Double Major)**  
-  * Biotechnology (Coursework)
+* 🎓 **B.S. in Statistics and Economics (Double Major)**
 * 📈 **M.A. in Economics(In Progress)**
   * **Major Focus: Econometrics**
   * **Research Interests: Forecasting, Machine Learning Applications in Economics**
