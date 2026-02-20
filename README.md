@@ -1,7 +1,7 @@
 # About Me
 
 ### 📚 Education
-* **B.S. in Statistics (Natural Sciences)**  
+* **B.S. in Statistics (College of Natural Sciences)**  
 
 * **M.A. in Economics (In Progress)**  
   * Focus: Econometrics 
@@ -10,7 +10,6 @@
 
 ### 🛠 Tools & Skills
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>  
-
 
 
 ### ✨ Contact
