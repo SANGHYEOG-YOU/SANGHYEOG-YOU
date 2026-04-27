@@ -5,7 +5,7 @@
 
 * **M.A. in Economics (In Progress)**  
   * Focus: Econometrics 
-  * Interests: Forecasting & AI-driven Economic Analysis
+  * Interests: Machine Learning & AI-driven Economic Analysis
 
 
 ### 🛠 Tools & Skills
@@ -13,4 +13,4 @@
 
 
 ### ✨ Contact
-**E-mail:** [dbtkdgur121212@naver.com](mailto:dbtkdgur121212@naver.com)
+**E-mail:** [tkdgur121212@naver.com](mailto:tkdgur121212@naver.com)
