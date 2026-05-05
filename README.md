@@ -1,7 +1,7 @@
 # About Me
 
 ### 📚 Education
-* **B.S. in Statistics **  
+* **B.S. in Statistics**  
 
 * **M.A. in Economics (In Progress)**  
   * Focus: Econometrics 
