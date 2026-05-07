@@ -5,7 +5,7 @@
 
 * **M.A. in Economics (In Progress)**  
   * Focus: Econometrics 
-  * Interests: **Machine Learning, Forecasting, Finance, AI-driven Economic Analysis**
+  * Interests: **Machine Learning, Forecasting, Empirical finance, Data-driven research**
 
 
 ### 🛠 Tools & Skills
