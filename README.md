@@ -5,7 +5,7 @@
 
 * **M.A. in Economics (In Progress)**  
   * Focus: **Data-Driven Research** 
-  * Interests: **Machine Learning, Forecasting, Finance**
+  * Interests: **Machine Learning, Forecasting, Empirical Finance**
 
 
 ### 🛠 Tools & Skills
