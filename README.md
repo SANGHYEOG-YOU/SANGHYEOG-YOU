@@ -4,8 +4,8 @@
 * **B.S. in Statistics**  
 
 * **M.A. in Economics (In Progress)**  
-  * Focus: **Econometrics** 
-  * Interests: **Machine Learning, Forecasting, Empirical finance, and Data-Driven Research**
+  * Focus: **Data-Driven Research** 
+  * Interests: **Machine Learning, Forecasting, Finance**
 
 
 ### 🛠 Tools & Skills
